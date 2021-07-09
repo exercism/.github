@@ -1,24 +1,22 @@
 # Code of Conduct
 
-_Exercism's most up-to-date Code of Conduct currently resides on [our website](https://exercism.io/code-of-conduct). This version is correct as of 17th Feb 2021._
-
-### Introduction
+## Introduction
 
 Exercism is a platform centered around empathetic conversation. We have a low tolerance for communication that makes anyone feel unwelcome, unsupported, insulted or discriminated against.
 
-### Seen or experienced something uncomfortable?
+## Seen or experienced something uncomfortable?
 
 If you see or experience abuse, harassment, discrimination, or feel unsafe or upset, please email abuse@exercism.io. We will take your report seriously.
 
-### Enforcement
+## Enforcement
 
-We actively monitor for Code of Conduct (CoC) violations and take any reports of violations extremely seriously. We have banned contributors, mentors and users due to violations. 
+We actively monitor for Code of Conduct (CoC) violations and take any reports of violations extremely seriously. We have banned contributors, mentors and users due to violations.
 
 After we receive a report of a CoC violation, we view that person's conversation history on Exercism and related communication channels and attempt to understand whether someone has deliberately broken the CoC, or accidently crossed a line. We generally reach out to the person who has been reported to discuss any concerns we have and warn them that repeated violations will result in a ban. Sometimes we decide that no violation has occurred and that no action is required and sometimes we will also ban people on a first offence. We strive to be fair, but will err on the side of protecting the culture of our community.
 
 Exercism's leadership reserve the right to take whatever action they feel appropriate with regards to CoC violations.
 
-### The simple version
+## The simple version
 
 - Be empathetic
 - Be welcoming
@@ -27,9 +25,10 @@ Exercism's leadership reserve the right to take whatever action they feel approp
 - Be supportive
 - Be polite
 
-### The details
+## The details
 
 Exercism should be a safe place for everybody regardless of
+
 - Gender, gender identity or gender expression
 - Sexual orientation
 - Disability
@@ -76,8 +75,8 @@ If you say something that is found offensive, and you are called out on it, try 
 - Ask for tips / help with avoiding making the offence in the future.
 - Apologise and ask forgiveness.
 
-### History
+## History
 
 This policy was initially adopted from the Front-end London Slack community and has been modified since. A version history can be seen on [GitHub](https://github.com/exercism/website-copy/edit/main/pages/code_of_conduct.md).
 
-_This policy is a "living" document, and subject to refinement and expansion in the future. This policy applies to the Exercism website, the Exercism GitHub organisation, any other Exercism-related communication channels (e.g. Slack, Twitter email) and any other Exercism entity or event._
+_This policy is a "living" document, and subject to refinement and expansion in the future. This policy applies to the Exercism website, the Exercism GitHub organisation, any other Exercism-related communication channels (e.g. Slack, Twitter, email) and any other Exercism entity or event._
