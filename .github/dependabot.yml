@@ -1,0 +1,12 @@
+version: 2
+
+updates:
+  # Keep dependencies for GitHub Actions up-to-date
+  - package-ecosystem: 'github-actions'
+    directory: '/'
+    schedule:
+      interval: 'daily'
+    labels:
+      - 'dependencies :arrow_up_small:'
+      - 'github_actions'
+      - 'x:size/small'
