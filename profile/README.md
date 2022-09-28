@@ -3,7 +3,7 @@
 Welcome to the behind-the-scenes home of [Exercism](https://exercism.org)!
 
 Our website is powered by hundreds of different repositories, which you're free to browse and explore.
-Each track has a content repositories (e.g. [exercism/ruby](https://github.com/exercism/ruby)) and tooling repositories (e.g. [exercism/ruby-test-runner](https://github.com/exercism/ruby-test-runner), [exercism/ruby-analyzer](https://github.com/exercism/ruby-analyzer)).
+Each track has a content repository (e.g. [exercism/ruby](https://github.com/exercism/ruby)) and a tooling repository (e.g. [exercism/ruby-test-runner](https://github.com/exercism/ruby-test-runner), [exercism/ruby-analyzer](https://github.com/exercism/ruby-analyzer)).
 The website source-code lives at [exercism/website](https://github.com/exercism/website).
 
 - If you're looking to open an issue, **the best place for nearly all issues is the [exercism/exercism](https://github.com/exercism/exercism) repository.**
